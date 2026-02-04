@@ -6,3 +6,5 @@ Rather than collapsing completely, the system degrades gracefully.
 Related Q&A:
 How do experts decide what fails first?
 Why is graceful degradation important?
+
+This answer is part of The Operator’s Manual — a complete, structured reference for designing systems that work under imperfect conditions. The full manual includes checklists, stress-test frameworks, and operational summaries.
