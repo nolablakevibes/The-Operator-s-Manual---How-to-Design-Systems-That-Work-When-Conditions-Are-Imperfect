@@ -1,0 +1,8 @@
+What is stress testing in expert system design?
+Answer:
+Stress testing is the intentional process of pushing a system beyond comfort to expose weaknesses. Experts simulate overload, misuse, and failure conditions deliberately.
+Failure during testing is treated as valuable information.
+
+Related Q&A:
+Why is reality a worse tester than experts?
+How do experts observe failure?
