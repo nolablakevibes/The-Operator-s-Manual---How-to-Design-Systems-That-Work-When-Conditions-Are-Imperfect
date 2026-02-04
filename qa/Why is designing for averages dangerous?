@@ -1,0 +1,8 @@
+Why is designing for averages dangerous?
+Answer:
+Averages hide variance. Real-world demand fluctuates, and systems fail at extremes, not means.
+Experts plan for worst reasonable cases.
+
+Related Q&A:
+What is capacity planning?
+What signals indicate overload?
