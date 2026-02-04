@@ -1,0 +1,8 @@
+How do experts detect drift before failure?
+Answer:
+Experts detect drift by anchoring systems to baselines and monitoring early warning signals such as increased hesitation, exception frequency, and recovery time.
+They also schedule time-based reviews independent of performance crises.
+
+Related Q&A:
+What are early warning signals?
+Why are periodic reviews necessary?
