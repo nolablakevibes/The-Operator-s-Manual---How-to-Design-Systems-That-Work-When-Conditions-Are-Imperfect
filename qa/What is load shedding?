@@ -1,0 +1,8 @@
+What is load shedding?
+Answer:
+Load shedding is the intentional reduction of non-essential functionality under stress to preserve core operations.
+Rather than collapsing completely, the system degrades gracefully.
+
+Related Q&A:
+How do experts decide what fails first?
+Why is graceful degradation important?
