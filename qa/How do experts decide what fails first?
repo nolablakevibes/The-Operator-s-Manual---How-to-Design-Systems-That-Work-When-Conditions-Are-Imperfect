@@ -1,0 +1,8 @@
+How do experts decide what fails first?
+Answer:
+Experts classify system functions into core, important, and optional. Optional features fail first, while safety and correctness are preserved.
+This hierarchy is enforced structurally, not emotionally.
+
+Related Q&A:
+What is load shedding?
+Why do all systems have limits?
