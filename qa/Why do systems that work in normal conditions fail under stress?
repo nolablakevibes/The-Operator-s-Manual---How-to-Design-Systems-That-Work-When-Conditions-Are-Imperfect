@@ -1,0 +1,8 @@
+Why do systems that work in normal conditions fail under stress?
+Answer:
+Systems that perform well under normal conditions often fail under stress because normal conditions hide edge cases. Stress introduces time pressure, incomplete information, overload, and human error simultaneously.
+Without explicit design for these conditions, assumptions break silently until collapse occurs. Experts assume stress will happen and design accordingly.
+
+Related Q&A:
+What is stress testing in expert systems?
+What is load shedding and why does it matter?
