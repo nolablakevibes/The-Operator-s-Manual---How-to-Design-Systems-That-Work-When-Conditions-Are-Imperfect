@@ -1,0 +1,8 @@
+What is drift in systems and why is it dangerous?
+Answer:
+Drift is the slow degradation of system performance as assumptions, inputs, or context change over time. It is dangerous because it is incremental and often normalized.
+By the time drift is obvious, recovery is costly. Experts assume drift will happen and design detection mechanisms early.
+
+Related Q&A:
+How do experts detect drift early?
+What are baselines and why do they matter?
