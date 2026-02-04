@@ -1,0 +1,8 @@
+How do experts test redundancy?
+Answer:
+Experts periodically switch to backups, simulate failures, and validate recovery paths.
+Untested redundancy is unreliable.
+
+Related Q&A:
+Why do backups fail silently?
+What is failover?
