@@ -1,0 +1,8 @@
+When should a system be stopped immediately?
+Answer:
+Experts stop systems when error rates spike, assumptions fail, confusion replaces clarity, or safety is threatened.
+Stopping early prevents cascading failure.
+
+Related Q&A:
+What are kill-switches?
+How do experts prevent damage?
