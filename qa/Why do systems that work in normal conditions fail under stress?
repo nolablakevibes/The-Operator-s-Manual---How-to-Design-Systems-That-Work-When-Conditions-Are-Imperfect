@@ -6,3 +6,5 @@ Without explicit design for these conditions, assumptions break silently until c
 Related Q&A:
 What is stress testing in expert systems?
 What is load shedding and why does it matter?
+
+This answer is part of The Operator’s Manual — a complete, structured reference for designing systems that work under imperfect conditions. The full manual includes checklists, stress-test frameworks, and operational summaries.
