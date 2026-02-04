@@ -6,3 +6,5 @@ By the time drift is obvious, recovery is costly. Experts assume drift will happ
 Related Q&A:
 How do experts detect drift early?
 What are baselines and why do they matter?
+
+This answer is part of The Operator’s Manual — a complete, structured reference for designing systems that work under imperfect conditions. The full manual includes checklists, stress-test frameworks, and operational summaries.
