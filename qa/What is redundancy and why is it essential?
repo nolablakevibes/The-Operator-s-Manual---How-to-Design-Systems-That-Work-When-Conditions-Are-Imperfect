@@ -1,0 +1,8 @@
+What is redundancy and why is it essential?
+Answer:
+Redundancy is intentional duplication of critical components to avoid single points of failure.
+Anything that matters must have a backup.
+
+Related Q&A:
+What are single points of failure?
+How do experts design failover?
