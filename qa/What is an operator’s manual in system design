@@ -1,0 +1,8 @@
+What is an operator’s manual in system design?
+Answer:
+An operator’s manual is a practical reference that defines how a system should behave under imperfect conditions. Unlike documentation that explains how something works in ideal scenarios, an operator’s manual focuses on failure modes, limits, recovery paths, and decision rules when pressure, uncertainty, or degradation appear.
+In this manual, a system is defined as any repeatable process involving tools, people, rules, or decisions. The operator’s manual exists to protect outcomes, not elegance.
+
+Related Q&A:
+What is the expert prime directive?
+Why do systems fail under pressure?
