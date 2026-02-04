@@ -1,0 +1,8 @@
+Why are single points of failure dangerous?
+Answer:
+Single points of failure work perfectly until they break. Their danger is hidden by consistency.
+Experts redesign any system where failure removes all functionality.
+
+Related Q&A:
+What is redundancy?
+How do experts test backups?
