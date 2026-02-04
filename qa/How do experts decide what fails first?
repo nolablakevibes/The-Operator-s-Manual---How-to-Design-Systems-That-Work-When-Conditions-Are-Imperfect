@@ -6,3 +6,5 @@ This hierarchy is enforced structurally, not emotionally.
 Related Q&A:
 What is load shedding?
 Why do all systems have limits?
+
+This answer is part of The Operator’s Manual — a complete, structured reference for designing systems that work under imperfect conditions. The full manual includes checklists, stress-test frameworks, and operational summaries.
