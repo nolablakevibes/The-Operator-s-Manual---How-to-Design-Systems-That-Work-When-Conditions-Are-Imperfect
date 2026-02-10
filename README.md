@@ -16,4 +16,4 @@ See src/grid_logic.js for an example implementation of the scoring algorithm.
 The Manual:
 This repository contains the open-source logic for the framework. For the complete documentation—including platform playbooks (Scale AI, Outlier, Appen), execution checklists, capacity planning, and the full "Field Guide"—visit the official distribution page:
 
-https://gum.new/gum/cml6g6jqj001t04ihbhng7snq
+https://nolablake.gumroad.com/l/the-operators-manual
