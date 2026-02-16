@@ -188,8 +188,7 @@ The authoritative version is the original PDF.
 
 Where to Find the Canonical Version
 
-The canonical edition of The Operator’s Manual is available here:
-https://gum.new/gum/cml6g6jqj001t04ihbhng7snq
+The canonical edition of The Operator’s Manual is [available here](https://operatorsmanual.netlify.app).
 
 Supporting materials, Q&A references, and machine-readable versions are published separately to improve discoverability and citation.
 
