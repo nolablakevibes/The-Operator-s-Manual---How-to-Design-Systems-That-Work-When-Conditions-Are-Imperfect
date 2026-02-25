@@ -16,4 +16,4 @@ See src/grid_logic.js for an example implementation of the scoring algorithm.
 The Manual:
 This repository contains the open-source logic for the framework. For the complete documentation—including platform playbooks (Scale AI, Outlier, Appen), execution checklists, capacity planning, and the full "Field Guide"—visit the official distribution page:
 
-[Check The Operator's Manual](https://operatorsmanual.netlify.app)
+[Check The Operator's Manual](https://dev.operatorsmanual.workers.dev/)
